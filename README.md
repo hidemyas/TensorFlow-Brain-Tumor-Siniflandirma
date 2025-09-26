@@ -49,11 +49,12 @@ Gelecek çalışmalar için şu geliştirmeler planlanmaktadır:
 ## Linkler
 
 Projenin Kaggle üzerindeki notebook'una aşağıdaki linklerden erişebilirsiniz:
-
+https://www.kaggle.com/code/hidemyas/tensorflow-ile-brain-tumor-mri-s-n-fland-rmas
 - [Brain Tumor MRI Classification with TensorFlow]([https://www.kaggle.com/code/username/brain-tumor-mri-classification](http://kaggle.com/code/hidemyas/tensorflow-ile-brain-tumor-mri-s-n-fland-rmas/notebook))
 - [Dataset]([https://www.kaggle.com/code/username/brain-tumor-gradcam-visualization](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
 
 ---
 
 *Bu repository, Akbank Derin Öğrenme Bootcamp projesi kapsamında oluşturulmuştur.*
+
 
