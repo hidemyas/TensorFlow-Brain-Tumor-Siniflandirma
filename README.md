@@ -11,7 +11,7 @@ Proje kapsamında:
 - **Algoritmalar**: VGG16 tabanlı transfer öğrenme, CNN, Grad-CAM
 - **Teknikler**: Veri artırma (data augmentation), hiperparametre optimizasyonu, model değerlendirme metrikleri
 
-Projenin teknik detayları, notebook dosyası içinde markdown formatında açıklanmıştır.
+Projenin teknik detayları, notebook dosyası içinde markdown hemde yorum formatında açıklanmıştır.
 
 ## Metrikler
 
@@ -56,3 +56,4 @@ Projenin Kaggle üzerindeki notebook'una aşağıdaki linklerden erişebilirsini
 ---
 
 *Bu repository, Akbank Derin Öğrenme Bootcamp projesi kapsamında oluşturulmuştur.*
+
